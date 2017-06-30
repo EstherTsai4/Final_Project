@@ -1,0 +1,6 @@
+Air Canada	Economy	0	476
+WestJet	Premium Economy	0	1105
+WestJet	Economy	0	498
+Alaska	Economy	0	270
+United	Economy	0	295
+American Airlines	Economy	0	552

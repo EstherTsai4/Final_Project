@@ -1,0 +1,20 @@
+British Musuem	London	$$
+National Gallery	London	$$
+Tower of London	London	$
+The London Eye	London	$$
+Big Ben	London	Free
+Tower Bridge	London	Free
+Westminster Abbey	London	Free
+Buskingham Palace	London	Free
+Arthur's Seat	Edinburgh	Free
+Royal Yacht Britannia	Edinburgh	$$
+Royal Mile	Edinburgh	Free
+Edinburgh Castle	Edinburgh	Free
+Holyrood Park	Edinburgh	Free
+St. Brelade's Bay Beach	Jersey	Free
+Jersey War Tunnels	Jersey	$$
+Jersey Zoo	Jersey	$
+Corbier Lighthouse	Jersey	Free
+Elizabeth Castle	Jersey	Free
+Mont Orgueil Castle	Jersey	Free
+The Mansell Collection	Jersey	$

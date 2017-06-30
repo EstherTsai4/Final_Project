@@ -1,0 +1,21 @@
+Gastronhome	London	$$$$
+The Ledbury 	London	$$$$
+MAMIE'S	London	$
+Over Under Coffee	London	$
+Zeret Kitchen	London	$$
+Bar 61 Restaurant	London	$$$
+The Clink Restaurant	London	$$
+Holy Smoke	London	$$$
+Liman Restaurant	London	$$
+The Table	Edinburgh	$$$$
+Aisle	Edinburgh	$$$$
+Papii	Edinburgh	$
+Oink	Edinburgh	$
+Forage & Chatter	Edinburgh	$$
+The Walnut	Edinburgh	$$$
+Locanda De Gusti	Edinburgh	$$
+Midbay Café	Jersey	$
+Dandy	Jersey	$
+Longueville Manor	Jersey	$$$$
+Aromas	Jersey	$$
+Bistro Rosa	Jersey	$$$

@@ -1,0 +1,9 @@
+Korean Air	Economy	1	1829.7
+Korean Air	Prestige	1	5098.8
+Korean Air	First	1	15576.7
+EVA Airlines	Economy	2	892.6
+EVA Airlines	Elite	2	1290.6
+EVA Airlines	Business	2	3613.6
+Japan Airlines	Economy	2	2720.79
+Japan Airlines	Premium Economy	2	2851.42
+Japan Airlines	Business	2	6995.89

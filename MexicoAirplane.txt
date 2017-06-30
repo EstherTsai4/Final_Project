@@ -1,0 +1,7 @@
+American Airlines	Economy	1	483
+United Airlines	Economy	1	458
+Aeromexico	Economy	1	720
+Avianca	Economy	1	5587
+Aeromexico	Business	1	1174
+Avianca	Business	1	6019
+United Airlines	Business	1	2329

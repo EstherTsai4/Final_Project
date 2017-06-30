@@ -1,0 +1,17 @@
+Musee d'Orsay	Paris	$$
+Eiffel Tower	Paris	$$
+Musee du Louvre	Paris	$$
+Notre Dame Catherdral	Paris	Free
+Sainte Chapelle	Paris	Free
+Luxembourg Gardens	Paris	Free
+Arc de Triomphe	Paris	Free
+Castle Hill	Nice	Free
+Old Town	Nice	Free
+St Nicholas Orthodox Cathedral	Nice	Free
+Marche aux Fleurs Cours Saleya	Nice	$
+Palais Lascaris	Nice	$
+The Royal Opera	Versailles	$$
+Le Jardin de Versailles	Versailles	Free
+L'Orangerie	Versailles	Free
+Chateau de Versailles	Versailles	$
+The Hall of mirrors	Versailles	$

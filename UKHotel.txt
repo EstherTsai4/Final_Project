@@ -1,0 +1,17 @@
+The Marylebone	London	4.5	343
+Hotel 41	London	5	429
+The Milestone Hotel	London	5	685
+Egerton House Hotel	London	5	855
+Taj 51 Buckingham Gate Suites and Residences	London	5	742
+The Montcalm London Marble Arch	London	5	480
+Park Grand London Lancaster Gate	London	4.5	240
+The Principal Edinburgh	Edinburgh	4.5	278
+Radisson Blu Hotel	Edinburgh	4.5	326
+Edinburgh City Hotel 	Edinburgh	4.5	149
+24 Royal Terrace	Edinburgh	4.5	295
+Fraser Suites Edinburgh	Edinburgh	4	236
+Hotel La Place	Jersey	5	223
+La Haule Manor	Jersey	5	213
+L'Horizon Beach Hotel & Spa	Jersey	4.5	206
+Stafford Hotel	Jersey	3.5	78
+Greenhills Country Hotel	Jersey	5	207

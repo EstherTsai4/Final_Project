@@ -1,0 +1,22 @@
+Stanley Park	Vancouver	Free
+Seawall 	Vancouver	Free
+Granville Island	Vancouver	$
+Bill Reid Gallery	Vancouver	$$
+Spirit Wrestler Gallery	Vancouver	$$
+Robson Street	Vancouver	$$
+Vanier Park	Vancouver	Free
+Science World	Vancouver	$$
+Peak 2 Peak Gondola	Whistler	$
+Whistler Mountain Bike Park	Whistler	Free
+Whistler Sliding Centre	Whistler	$
+Squamish Lil'wat Cultural Centre	Whistler	$
+Lost Lake	Whistler	Free
+Brandywine Falls Provincial Park	Whistler	Free
+Audain Art Musuem	Whistler	$
+Old Quebec	Quebec City	$
+Terrasse Dufferin	Quebec City	$
+Place Royale	Quebec City	Free
+Old Port	Quebec City	$
+Plains of Abraham	Quebec City	Free
+Morrin Centre	Quebec City	Free
+Parliament Building	Quebec City	Free

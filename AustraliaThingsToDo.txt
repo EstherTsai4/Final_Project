@@ -1,0 +1,13 @@
+Sydney Harbour	Sydney	Free
+Sydney Opera House	Sydney	$$
+Sydney Harbour Bridge	Sydney	Free
+Sydney Ferries	Sydney	$$
+Royal Botanic Gardens	Sydney	Free
+The Rocks	Sydney	Free
+Melbourne Cricket Ground	Melbourne	$$
+Shrine of Remembrance	Melbourne	$$
+City Circle Tram	Melbourne	$
+National Gallery of Victoria	Melbourne	$$
+Port Campbell National Park	Melbourne	Free
+Block Arcade	Melbourne	$
+State Library of Victoria	Melbourne	Free

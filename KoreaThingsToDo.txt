@@ -1,0 +1,15 @@
+Gyeongbokgung	Seoul	Free
+N Seoul Tower	Seoul	$$
+Namdaemun	Seoul	Free
+Lotte World	Seoul	$$
+Myeong dong	Seoul	$$
+Haeundae Beach	Busan	Free
+Jagalchi Market	Busan	$
+Gwangandaegyo	Busan 	Free
+Beomeosa	Busan	Free
+Busan Lotte Town Tower	Busan	$$
+Cheonjiyeon Waterfall	Jeju	Free
+Hallasan	Jeju	Free
+Namsan Tower	Seoul	$
+Love Islan	Jeju	Free
+Jeju Olle Trail	Jeju	Free

@@ -1,0 +1,10 @@
+Meander Taipei Hostel	Taipei	4	31
+Royal Seasons Hotel	Beitou	3.5	46
+CityInn Hotel Plus	Taichung	4.5	53
+Chateau de Chine Hotel 	Taoyuan	4	55
+YoMi Hotel	Taipei	4.5	81
+Ambience Hotel	Taipei	4.5	83
+C U Hotel	Taipei	4.5	53
+Howard Plaza Hotel	Hsinchu	3.5	51
+Fleur de Chine Hotel	Sun Moon Lake	4.5	249
+

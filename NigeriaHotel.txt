@@ -1,0 +1,15 @@
+Southern Sun Ikoyi	Lagos	4	186
+InterContinental Lagos	Lagos	3.5	210
+Radisson Blu Anchorage Hotel	Lagos	3.5	163
+Four Points by Sheraton	Lagos	4	136
+The Wheatbaker	Lagos	4.5	410
+Bogobiri House 	Lagos	4	62
+Transcorp Hiltron	Abuja	4	234
+Tranquil Mews	Abuja	4	48
+Hotel De Bently	Abuja	3.5	47
+Reiz Continental Hotel	Abuja	3.5	129
+Stonehedge	Abuja	4.5	122
+Owu Crown Hotel Ibadan	Ibadan	4	65
+Super K Hotel	Ibadan	2.5	17
+Plaza De Aruna Hotel	Ibadan	3	8
+Adis Hotels Ibadan	Ibadan	4.5	48

@@ -1,0 +1,8 @@
+Emirates	Economy	2	1775
+Lufthansa	Premium Economy	2	2626
+Emirates	Business	2	10862
+KLM	Economy	2	1701
+KLM	Business	2	10598
+Air France	Economy	2	1976
+Air France	Premium Economy	2	2494
+Air France	Business	2	10648

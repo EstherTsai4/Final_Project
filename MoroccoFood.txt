@@ -1,0 +1,26 @@
+Dar Anika Kitchen	Marrakech	$$
+Naranj	Marrakech	$$
+Amal	Marrakech	$
+L'Annexe	Marrakech	$$$
+Gastro MK at Maison	Marrakech	$$$$
+Libzar	Marrakech	$$$
+La Cantine Des Gazelles	Marrakech	$
+Amaia Restaurant	Marrakech	$$$
+Roti D'or	Marrakech	$
+Zwin Zwin Café	Marrakech	$$
+Restaurant La Bavaroise	Casablanca	$$$$
+Brasserie La Tour	Casablanca	$$$$
+Basmane	Casablanca	$$$$
+Meson Asador	Casablanca	$$
+Resto Zayna	Casablanca	$$
+Tula Comida Latina	Casablanca	$$$
+Al Mounia	Casablanca	$$$
+Casa Jose	Casablanca	$$
+Le Petit Roucher	Casablanca	$$
+Riad Rcif	Fes	$$
+L'Amandier Palais Faraj	Fes	$$$$
+Dar Roumana	Fes	$$$$
+Chez Rachid	Fes	$
+The Ruined Garden	Fes	$$$
+Nagham Café	Fes	$
+Riad Andalib	Fes	$$$

@@ -1,0 +1,18 @@
+Sugarloaf Mountain	Rio de Janeiro	Free
+Corcovado Christ the Redeemer	Rio de Janeiro	Free
+Morro da Urca	Rio de Janeiro	Free
+Centro Cultural Banco do Brasil	Rio de Janeiro	$
+Caixo Cultural Rio	Rio de Janeiro	$
+Tijuca National Park	Rio de Janeiro	Free
+Ibirapuera Park	Sao Paulo	Free
+Paulist Avenue	Sao Paulo	$
+Football Museum	Sao Paulo	$$
+Renault Theatre	Sao Paulo	$
+Mercadao	Sao Paulo	$
+Ilha dos Frades	Salvador	$$
+Basilica Cathedral	Salvador	Free
+Flamengo Beach 	Salvador	Free
+Ponta de Humaita	Salvador	$
+Garcia d'Avila Castle 	Salvador	Free
+Teatro Vila Velha	Salvador	$
+Rio Branco Palace	Salvador	Free

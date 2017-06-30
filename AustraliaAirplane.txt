@@ -1,0 +1,9 @@
+American Airlines	Economy	2	1568
+Air Canada	Business	2	9501
+Air Canada	Premium	1	3245
+ANA	Economy		2	1208
+ANA	Premium		1	3062
+Virgin Australia	Business	1	8590
+Air New Zealand		Economy		2	1204
+Air New Zealand		Premium		1	3626
+Air New Zealand		Business	2	9112

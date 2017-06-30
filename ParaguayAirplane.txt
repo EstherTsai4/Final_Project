@@ -1,0 +1,6 @@
+Copa Air	Economy	2	1256.46
+Copa Air	Business	2	8309.46
+Delta Air	Economy	2	1541.96
+Delta Air	Business	2	9293.96
+LATAM Airlines	Economy	2	1223
+LATAM Airlines	Business	2	7928.49

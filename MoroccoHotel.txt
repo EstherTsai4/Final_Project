@@ -1,0 +1,14 @@
+Riad Kheirredine	Marrakech	5	216
+Riad Hikaya	Marrakech	5	142
+Riad les Orangers d'Alilia Marrakech	Marrakech	5	64
+Riad Azoulay	Marrakech	5	98
+El Fenn	Marrakech	5	211
+Hyatt Regency Casablanca	Casablanca	4	126
+Hotel & Spa Le Doge	Casablanca	4.5	201
+Melliber Appart Hotel	Casablanca	4	54
+Hotel les Saisons	Casablanca	3.5	79
+Riad Andalib	Fes	5	110
+Riad El Yacout	Fes	5	81
+Riad Fes Aicha	Fes	4.5	40
+Dar Hafsa	Fes	5	38
+Riad Dar Tafilalet	Fes	5	33

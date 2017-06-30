@@ -1,0 +1,9 @@
+Icelandair	Economy	1	2026
+Icelandair	Premium Economy	1	2829
+Icelandair	Business	1	4233
+Aer Lingus	Economy	1	2205
+British Airways	Premium Economy	1	5953
+British Airways	Business	1	8482
+KLM	Economy	1	2912
+Air France	Premium Economy	1	6096
+KLM	Business	1	9970

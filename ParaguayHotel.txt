@@ -1,0 +1,22 @@
+Tierra Colorado Gastro	Asuncion	$$$$
+La Cabrera	Asuncion	$$$$
+Gaucho	Asuncion	$$
+Paulista Grill	Asuncion	$$$
+Lo de Osvaldo	Asuncion	$$
+Restaurante Bolsi	Asuncion	$$$
+Lido Bar	Asuncion	$$$
+Shangri-La	Asuncion	$$
+Bar La Esquina	Asuncion	$
+Monalisa	Ciudad Del Este 	$$$$
+Capitao Bar CDE	Ciudad Del Este 	$$
+Frankonia	Ciudad Del Este 	$$
+Ali Baba	Ciudad Del Este 	$
+Bel Sit de Giorgio	Ciudad Del Este 	$$$
+Patussi Grill	Ciudad Del Este 	$$$
+Novo Rodeio	Encarnacion	$$$
+Milord & Vinorosso	Encarnacion	$$$$
+Vicio's	Encarnacion	$$
+Portobello Pasta & Birra	Encarnacion	$$$
+Primoli Restaurant	Encarnacion	$$
+Chipa Tia	Encarnacion	$$
+El Tomate	Encarnacion	$

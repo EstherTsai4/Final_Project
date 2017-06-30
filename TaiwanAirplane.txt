@@ -1,0 +1,9 @@
+EVA Air	Economy	1	692.20
+EVA Air	Premium 	1	1025.60
+EVA Air	Business	1	2734.60
+China Airlines	Economy	1	708.10
+China Airlines	Premium 	1	1028.10
+China Airlines	Business 	1	2502.60
+Air Canada	Economy	1	766.00
+Air Canada	Economy	2	1771.00
+Air Canada	Economy	2	972.00

@@ -1,0 +1,18 @@
+The Royal Playa del Carmen	Playa del Carmen	4.5	291
+Rosewood Mayakoba	Playa del Carmen	5	590
+Banyan Tree Mayakoba	Playa del Carmen	4.5	498
+Grand Velas Riviera Maya	Playa del Carmen	4.5	593
+The Carmen Hotel	Playa del Carmen	4.5	351
+Petit Lafitte	Playa del Carmen	4.5	142
+Marina Fiesta Resort & Spa	Cabo San Lucas	4	108
+Casa Bella Boutique Hotel	Cabo San Lucas	5	155
+Esperanza	Cabo San Lucas	5	4166
+The Resort at Pedregal	Cabo San Lucas	5	868
+Cabo Vista Hotel	Cabo San Lucas	5	52
+Grand Solmar Land's End Resort & Spa	Cabo San Lucas	5	397
+Grand Fiesta Americana Coral Beach Cancun	Cancun	4.5	163
+Le Blanc Spa Resort	Cancun	5	690
+NIZUC Resort and Spa	Cancun	4.5	477
+The Ritz-Carlton	Cancun	4.5	303
+Secretes The Vine Cancun	Cancun	4.5	249
+Dreams Sands Cancun Resort & Spa	Cancun	4.5	185

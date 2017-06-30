@@ -1,0 +1,17 @@
+Blue Horizon Hotel	Vancouver	4.5	196
+L'Hermitage Hotel	Vancouver	5	300
+Fairmont Pacific Rim	Vancouver	5	383
+Wedgewood Hotel & Spa	Vancouver	5	315
+St Regis Hotel	Vancouver	4.5	263
+Sunset Inn and Suites	Vancouver	4.5	198
+Summit Lodge Boutique Hotel	Whistler	4.5	157
+Nita Lake Lodge	Whistler	4.5	234
+Four Seasons Resort and Residences Whistler	Whistler	4.5	195
+Pan Pacific Whistler Village Centre	Whistler	4.5	287
+Fairmont Chateau Whistler Resort	Whistler	4.5	211
+Auberge Saint-Antoine	Quebec City	5	291
+Hotel du Vieux-Quebec	Quebec City	5	196
+Le Manoir d'Auteuil	Quebec City	5	177
+Maison du Fort	Quebec City	5	128
+Hotel Le Priori	Quebec City	4.5	259
+Chateau Fleur de Lys	Quebec City	4.5	120

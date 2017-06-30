@@ -1,0 +1,11 @@
+Birdsnest Hostel	Seoul	5	7
+Chocolate Tree	Seoul	5	12
+Lotte City Hotel Guro	Seoul	4.5	97
+The Grand Hotel Myeongdong	Seoul	4.5	77
+The Shilla Seoul	Seoul	4.5	211
+Novotel Ambassador	Daegu	4.5	134
+Eldis Regent Hotel	Daegu	3.5	69
+Palgong Emillia Hotel	Daegu	5	70
+Shilla Stay 	Jeju	4.5	108
+Lotte City Hotel Jeju	Jeju	4.5	104
+Ocean Suites Jeju Hotel	Jeju	4	66

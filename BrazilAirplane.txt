@@ -1,0 +1,8 @@
+LATAM Airlines	Economy	2	4161.57
+LATAM Airlines	Premium Economy	2	7850.57
+LATAM Airlines	Premium Business	2	7850.57
+Copa Air	Economy	2	1899.56
+Copa Air	Business	2	7278.56
+American Airlines	Economy	2	1309
+American Airlines	Business	2	7857
+American Airlines	First	2	11991

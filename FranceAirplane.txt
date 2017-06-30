@@ -1,0 +1,10 @@
+Air France	Economy	1	2805.68
+Air France	Premium Economy	1	3870.68
+Air France	Business	1	11451.05
+British Airways	Economy	1	1379
+British Airways	Premium Economy	1	1659
+British Airways	Business	1	2821
+British Airways	First	1	8121
+Condor 	Economy	2	2039.98
+Condor 	Premium Economy	2	2129.98
+Condor 	Business	2	3479.98

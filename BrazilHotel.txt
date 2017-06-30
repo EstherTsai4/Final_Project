@@ -1,0 +1,12 @@
+Ibis Rio de Janeiro Botafogo Hotel	Rio de Janerio	4	56
+Miramar Hotel	Rio de Janerio	4.5	183
+Belmond Copacabana Palace	Rio de Janerio	4.5	331
+LSH Barra Hotel	Rio de Janerio	4.5	158
+Hotel Trainon Paulista	Sao Paulo	4	78
+Emiliano Hotel	Sao Paulo	5	422
+InterContinental Sao Paulo	Sao Paulo	4.5	177
+Luz Plaza	Sao Paulo	4.5	83
+Grande Hotel Da Barra	Salvador	3.5	61
+Hotel Deville Prime Salvador	Salvador	4.5	85
+Sotero Hotel	Salvador	4.5	59
+Mar Brasil Hotel	Salvador	4.5	69

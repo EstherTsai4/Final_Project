@@ -1,0 +1,18 @@
+Sydney Harbour Marriott Hotel	Sydney	4	158
+Adina Apartment Hotel Bondi Beach	Sydney	4.5	165
+Radisson Blu Plaza Hotel Sydney	Sydney	4.5	196
+Ovol 1888 Darling Harbour	Sydney	4.5	181
+"Sheraton on the Park, Sydney"	Sydney	4.5	163
+QT Sydney	Sydney	4.5	205
+The Langham	Melbourne	4.5	149
+The Hotel Windsor	Melbourne	4.5	165
+Citadines on Bourke Melbourne	Melbourne	4.5	134
+Alto Hotel on Bourke	Melbourne	4.5	127
+Adelphi Hotel	Melbourne	4.5	192
+The Langham	Melbourne	4.5	149
+Mantra on View Hotel	Gold Coast	4	104
+Peppers Soul	Gold Coast	4.5	363
+RACV Royal Pines Resort	Gold Coast	4.5	185
+Meriton Serviced Apartments	Gold Coast	4.5	84
+La Costa Motel	Gold Coast	5	94
+NRMA Treasure Island Holiday Park	Gold Coast	4.5	100

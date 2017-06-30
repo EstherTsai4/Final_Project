@@ -1,0 +1,6 @@
+British Airways	Economy	2	1672
+British Airways	Premium Economy	2	4993
+British Airways	Business	2	16170
+American Airlines	Economy	2	1835.49
+Condor	Premium Economy	2	7702
+Iberia	Business	2	5659

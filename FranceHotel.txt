@@ -1,0 +1,10 @@
+Hotel Malte	Paris	5	217
+Mandarin Oriental	Paris	5	1196
+Paris France Hotel	Paris	4.5	121
+Grand Hotel du Palais Royal	Paris 	5	496
+Villa Bougainville 	Nice	4	100
+Hotel du Petit Palais	Nice	4.5	209
+Hotel La Perouse	Nice	4.5	543
+Hotel Le Versailles	Versailles	4	183
+Pullman Chateau de Versailles	Versailles	4	189
+Les Clefs du Roy	Versailles	4	87

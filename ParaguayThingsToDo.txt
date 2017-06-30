@@ -1,0 +1,20 @@
+Paseo La Galeria	Asuncion	$$$
+Government Palace	Asuncion	Free
+Casa de la Independencia	Asuncion	$
+Catedral de Nuestra Senora de la Asuncion	Asuncion	Free
+Museo del Barro	Asuncion	$$
+Panteon Nacional de los Heroes	Asuncion	Free
+Teatro Municipal Ignacio A. Pane	Asuncion	$$
+Represa Hidroelectrica Itaipu Binacional	Ciudad Del Este	Free
+Shopping Paris	Ciudad Del Este	$$
+Casa Nissei	Ciudad Del Este	$$
+Snow Park	Ciudad Del Este	$
+Plaza Jesuitica	Ciudad Del Este	$
+Catedral de San Blas	Ciudad Del Este	Free
+Casino Platinum Cde	Ciudad Del Este	$$
+La Santisima Trinidad de Parana	Encarnacion	Free
+Costanera de la Ciudad de Encarnacion Paraguay	Encarnacion	Free
+Reuinas jesuiticas de Jesus de Tavarangue	Encarnacion	Free
+San Jose Beach	Encarnacion	Free
+Iglesia Ortodoxa San Jorge	Encarnacion	Free
+Parque Acuatico Y Ecologico El Dorado	Encarnacion	$$
